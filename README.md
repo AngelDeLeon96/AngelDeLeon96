@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div>
+<div style="text-align:center;">
   <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"> 
 </div>
 <!--

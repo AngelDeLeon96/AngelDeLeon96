@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div>
+  <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg"> 
+</div>
 <!--
 **AngelDeLeon96/AngelDeLeon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
